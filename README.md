@@ -1,4 +1,4 @@
- 🧰 UstaPlatform – Şehrin Uzmanlık Platformu  
+  UstaPlatform – Şehrin Uzmanlık Platformu  
 **Ders:** Nesne Yönelimli Programlama (NYP) ve İleri C#  
 **Öğrenci:** Selin Tuğba Özdemir  
 **Üniversite:** Yozgat Bozok Üniversitesi – Bilgisayar Mühendisliği  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 Bu proje, Arcadia şehrinde vatandaşların açtığı iş taleplerini uygun ustalarla (tesisatçı, elektrikçi, boyacı vb.) eşleştiren, dinamik fiyat hesaplaması yapabilen ve eklenti (plug-in) mimarisiyle genişletilebilen bir **usta yönetim sistemi** geliştirmeyi amaçlamaktadır.  
 Sistem, yeni fiyat kuralları veya kampanyalar eklendiğinde **ana kodda hiçbir değişiklik yapılmadan** çalışmaya devam eder. Bu sayede **Açık/Kapalı (Open/Closed)** SOLID prensibi uygulanmış olur.  
 
 ---
 
-## 🧩 Katmanlı Mimari
+## Katmanlı Mimari
 Uygulama 3 ana katmandan oluşmaktadır:
 
 1. **UstaPlatform.Domain** → Temel varlıklar (Usta, Vatandaş, İşEmri, Talep sınıfları)  
