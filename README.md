@@ -18,3 +18,10 @@ Proje **çok katmanlı (multi-project)** bir yapıya sahiptir:
 1. Projeyi klonla veya indir:
    ```bash
    git clone https://github.com/Tugbaios/UstaPlatform.git
+
+
+---
+
+Geliştiren: **Selin Tuğba Özdemir**  
+Yozgat Bozok Üniversitesi – Bilgisayar Mühendisliği  
+2025 Güz Dönemi – Nesne Yönelimli Programlama Projesi
